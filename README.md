@@ -12,11 +12,11 @@ This is my portfolio webpage, which will later act as the landing page for my pr
 
 #### To clone the repository:
 
-* Copy the following link: https://github.com/snbutters/portfolio.git
+* Copy the following link: https://github.com/snbutters/portfolio2.git
 * Open your terminal
 * Type git clone (paste link)
 
-*You can also [click here](https://snbutters.github.io/portfolio/) for direct access to the webpage.*
+*You can also [click here]() for direct access to the webpage.*
 
 ## Technologies Used
 
